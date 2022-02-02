@@ -1,0 +1,827 @@
+/* screen - cattycodemobile */
+
+.cattycodemobile {
+  background-color: var(--electric-violet);
+  height: 1367px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+.cattycodemobile .catty-code-v10-C61RwL {
+  background-color: transparent;
+  color: rgba(255,0,0,1.0);
+  font-family: 'Poppins', Helvetica;
+  font-size: 29px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 72px;
+  letter-spacing: 0.00px;
+  line-height: 29px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  text-shadow: 10px 16px 3px rgba(255,255,255,0.702);;
+  top: 1253px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: auto;
+}
+.cattycodemobile .catty-code-v10-C61RwL:hover {
+
+filter: grayscale(100%);
+}
+.cattycodemobile .cool-KOsP6k {
+  background-color: transparent;
+  border-radius: 332px;
+  height: calc(100.00% - 20px);
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: calc(100.00% - 20px);
+}
+.cattycodemobile .dart-logo-tYvjjh {
+  background-color: transparent;
+  height: 24px;
+  left: 8px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: calc(44.44% - 11px);
+  transition: all 0.2s ease;
+  width: calc(100.00% - 16px);
+}
+.cattycodemobile .dart-logo-tYvjjh:hover {
+
+transform: scale(0.9); 
+}
+.cattycodemobile .ellipse-5-C61RwL {
+  background-color: rgba(210,142,255,1.0);
+  border-radius: 4px;
+  height: 8px;
+  left: 110px;
+  position: absolute;
+  top: 280px;
+  width: 8px;
+}
+.cattycodemobile .ellipse-6-C61RwL {
+  background-color: rgba(210,142,255,1.0);
+  border-radius: 4px;
+  height: 8px;
+  left: 258px;
+  position: absolute;
+  top: 280px;
+  width: 8px;
+}
+.cattycodemobile .fluswair-9xHt5x {
+  -webkit-text-stroke: 1px var(--black);
+  background-color: transparent;
+  color: var(--electric-violet);
+  font-family: 'Poppins', Helvetica;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 87px;
+}
+.cattycodemobile .group-1-C61RwL {
+  background-color: rgba(0,255,111,1.0);
+  border-radius: 22.5px;
+  cursor: pointer;
+  height: 45px;
+  left: 235px;
+  pointer-events: auto;
+  position: absolute;
+  top: 67px;
+  transition: all 0.2s ease;
+  width: 45px;
+}
+.cattycodemobile .group-1-C61RwL:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.cattycodemobile .group-10-GE9ErR {
+  background-color: transparent;
+  bottom: calc(48.00% - 7px);
+  height: 15px;
+  pointer-events: auto;
+  position: absolute;
+  right: 0px;
+  transition: all 0.2s ease;
+  width: 207px;
+}
+.cattycodemobile .group-10-GE9ErR:hover {
+
+box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+.cattycodemobile .group-11-AX7pWk {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.cattycodemobile .group-12-AX7pWk {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 20px);
+  width: 100%;
+}
+.cattycodemobile .group-13-AX7pWk {
+  background-color: transparent;
+  bottom: 0px;
+  height: 40px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.cattycodemobile .group-14-C61RwL {
+  background-color: transparent;
+  height: 176px;
+  left: 52px;
+  position: absolute;
+  top: 420px;
+  width: 271px;
+}
+.cattycodemobile .group-15-C61RwL {
+  background-color: var(--electric-violet);
+  border-radius: 20px;
+  height: 40px;
+  left: 52px;
+  pointer-events: auto;
+  position: absolute;
+  top: 738px;
+  transition: all 0.2s ease;
+  width: 40px;
+}
+.cattycodemobile .group-15-C61RwL:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.cattycodemobile .group-16-C61RwL {
+  background-color: var(--electric-violet);
+  border-radius: 20px;
+  height: 40px;
+  left: 52px;
+  pointer-events: auto;
+  position: absolute;
+  top: 794px;
+  transition: all 0.2s ease;
+  width: 40px;
+}
+.cattycodemobile .group-16-C61RwL:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.cattycodemobile .group-17-C61RwL {
+  background-color: var(--electric-violet);
+  border-radius: 20px;
+  height: 40px;
+  left: 52px;
+  pointer-events: auto;
+  position: absolute;
+  top: 850px;
+  transition: all 0.2s ease;
+  width: 40px;
+}
+.cattycodemobile .group-17-C61RwL:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.cattycodemobile .group-18-C61RwL {
+  background-color: var(--white);
+  border-radius: 37px;
+  height: 45px;
+  left: 124px;
+  pointer-events: auto;
+  position: absolute;
+  top: 982px;
+  transition: all 0.2s ease;
+  width: 124px;
+}
+.cattycodemobile .group-18-C61RwL:hover {
+
+transform: translate(0, -5px);
+}
+.cattycodemobile .group-19-C61RwL {
+  background-color: var(--white);
+  border-radius: 37px;
+  cursor: pointer;
+  height: 30px;
+  left: 66px;
+  pointer-events: auto;
+  position: absolute;
+  top: 1043px;
+  transition: all 0.2s ease;
+  width: 243px;
+}
+.cattycodemobile .group-19-C61RwL:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.cattycodemobile .group-2-C61RwL {
+  background-color: rgba(230,255,0,1.0);
+  border-radius: 22.5px;
+  cursor: pointer;
+  height: 45px;
+  left: 165px;
+  pointer-events: auto;
+  position: absolute;
+  top: 67px;
+  transition: all 0.2s ease;
+  width: 45px;
+}
+.cattycodemobile .group-2-C61RwL:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.cattycodemobile .group-22-C61RwL {
+  background-color: var(--white);
+  border-radius: 37px;
+  height: 35px;
+  left: 36px;
+  position: absolute;
+  top: 1094px;
+  width: 303px;
+}
+.cattycodemobile .group-23-C61RwL {
+  background-color: transparent;
+  height: 31px;
+  left: 197px;
+  pointer-events: auto;
+  position: absolute;
+  top: 1094px;
+  transition: all 0.2s ease;
+  width: 104px;
+}
+.cattycodemobile .group-23-C61RwL:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.cattycodemobile .group-24-C61RwL {
+  background-color: transparent;
+  height: 31px;
+  left: 59px;
+  pointer-events: auto;
+  position: absolute;
+  top: 1094px;
+  transition: all 0.2s ease;
+  width: 116px;
+}
+.cattycodemobile .group-24-C61RwL:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.cattycodemobile .group-25-C61RwL {
+  background-color: transparent;
+  height: 30px;
+  left: 100px;
+  pointer-events: auto;
+  position: absolute;
+  top: 854px;
+  transition: all 0.2s ease;
+  width: 211px;
+}
+.cattycodemobile .group-25-C61RwL:hover {
+
+transform: translate(5px, 0);
+}
+.cattycodemobile .group-26-C61RwL {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 30px;
+  left: 101px;
+  pointer-events: auto;
+  position: absolute;
+  top: 799px;
+  transition: all 0.2s ease;
+  width: 211px;
+}
+.cattycodemobile .group-26-C61RwL:hover {
+
+transform: translate(5px, 0);
+}
+.cattycodemobile .group-27-C61RwL {
+  background-color: transparent;
+  height: 36px;
+  left: 100px;
+  pointer-events: auto;
+  position: absolute;
+  top: 740px;
+  transition: all 0.2s ease;
+  width: 211px;
+}
+.cattycodemobile .group-27-C61RwL:hover {
+
+transform: translate(5px, 0);
+}
+.cattycodemobile .group-3-C61RwL {
+  background-color: rgba(255,0,0,1.0);
+  border-radius: 22.5px;
+  cursor: pointer;
+  height: 45px;
+  left: 95px;
+  pointer-events: auto;
+  position: absolute;
+  top: 67px;
+  transition: all 0.2s ease;
+  width: 45px;
+}
+.cattycodemobile .group-3-C61RwL:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.cattycodemobile .group-3-VyzZeT {
+  background-color: transparent;
+  background-image: url(../img/github@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 10px);
+  left: 5px;
+  position: relative;
+  top: 6px;
+  width: calc(100.00% - 10px);
+}
+.cattycodemobile .group-4-C61RwL {
+  background-color: var(--white);
+  border: 4px solid rgba(90,0,248,0.922);
+  border-radius: 60px;
+  height: 120px;
+  left: 128px;
+  pointer-events: auto;
+  position: absolute;
+  top: 140px;
+  transition: all 0.2s ease;
+  width: 120px;
+}
+.cattycodemobile .group-4-C61RwL:hover {
+
+filter: grayscale(100%);
+}
+.cattycodemobile .group-5-7WolNB {
+  background-color: transparent;
+  height: 15px;
+  pointer-events: auto;
+  position: absolute;
+  right: 0px;
+  top: calc(48.00% - 7px);
+  transition: all 0.2s ease;
+  width: 207px;
+}
+.cattycodemobile .group-5-7WolNB:hover {
+
+box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+.cattycodemobile .group-6-7WolNB {
+  background-color: var(--electric-violet);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 40px;
+}
+.cattycodemobile .group-7-PwkEaQ {
+  background-color: var(--electric-violet);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 40px;
+}
+.cattycodemobile .group-8-PwkEaQ {
+  background-color: transparent;
+  bottom: calc(48.00% - 7px);
+  height: 15px;
+  pointer-events: auto;
+  position: absolute;
+  right: 0px;
+  transition: all 0.2s ease;
+  width: 207px;
+}
+.cattycodemobile .group-8-PwkEaQ:hover {
+
+box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+.cattycodemobile .group-9-GE9ErR {
+  background-color: var(--electric-violet);
+  border-radius: 20px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 40px;
+}
+.cattycodemobile .herkes-iin-udemy-StUjmZ {
+  -webkit-text-stroke: 1px var(--unmellow-yellow);
+  background-color: transparent;
+  color: var(--electric-violet);
+  font-family: 'Poppins', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: 100%;
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: calc(100.00% - 27px);
+}
+.cattycodemobile .iletiim-0xverS {
+  background-color: transparent;
+  color: var(--electric-violet);
+  font-family: 'Poppins', Helvetica;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% - 7px);
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  white-space: nowrap;
+  width: calc(100.00% - 30px);
+}
+.cattycodemobile .infomertsirakayacom-ebBR7z {
+  background-color: transparent;
+  color: var(--electric-violet);
+  font-family: 'Poppins', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% - 3px);
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  white-space: nowrap;
+  width: calc(100.00% - 25px);
+}
+.cattycodemobile .kodlarn-tercman-aRbOOb {
+  -webkit-text-stroke: 1px var(--unmellow-yellow);
+  background-color: transparent;
+  color: var(--electric-violet);
+  font-family: 'Poppins', Helvetica;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% + 1px);
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: calc(100.00% - 10px);
+}
+.cattycodemobile .konser-biletleri-BKbGut {
+  -webkit-text-stroke: 1px var(--unmellow-yellow);
+  background-color: transparent;
+  color: var(--electric-violet);
+  font-family: 'Poppins', Helvetica;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% + 2px);
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: calc(100.00% - 21px);
+}
+.cattycodemobile .linked-in-zUixHA {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 5px);
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: calc(100.00% - 5px);
+}
+.cattycodemobile .mert-srakaya-C61RwL {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Poppins', Helvetica;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 122px;
+  letter-spacing: 0.00px;
+  line-height: 19px;
+  position: absolute;
+  text-align: left;
+  top: 274px;
+  white-space: nowrap;
+  width: auto;
+}
+.cattycodemobile .path-1-7xppi0 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 53px);
+}
+.cattycodemobile .path-1-GYBMN0 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 53px);
+}
+.cattycodemobile .path-1-sDVF0B {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 53px);
+}
+.cattycodemobile .projeler-C61RwL {
+  -webkit-text-stroke: 1px var(--unmellow-yellow);
+  background-color: transparent;
+  color: var(--electric-violet);
+  font-family: 'Poppins', Helvetica;
+  font-size: 29px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 132px;
+  letter-spacing: 0.00px;
+  line-height: 29px;
+  position: absolute;
+  text-align: left;
+  top: 680px;
+  white-space: nowrap;
+  width: auto;
+}
+.cattycodemobile .rectangle-16-BKbGut {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: calc(100.00% - 6px);
+  left: 0px;
+  position: absolute;
+  top: 2px;
+  width: 100%;
+}
+.cattycodemobile .rectangle-18-StUjmZ {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.cattycodemobile .rectangle-2-hvAGCq {
+  background-color: transparent;
+  bottom: calc(48.00% - 10px);
+  height: 20px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 15px);
+}
+.cattycodemobile .rectangle-20-2eLxbt {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 24px;
+}
+.cattycodemobile .rectangle-20-9xHt5x {
+  background-color: transparent;
+  height: calc(100.00% - 7px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 24px;
+}
+.cattycodemobile .rectangle-3-C61RwL {
+  background-color: var(--black);
+  border: 2px solid var(--white);
+  border-radius: 3px;
+  height: 1304px;
+  left: 23px;
+  position: absolute;
+  top: 28px;
+  width: 330px;
+}
+.cattycodemobile .rectangle-4-C61RwL {
+  background-color: var(--white);
+  border-radius: 4px;
+  height: 51px;
+  left: 39px;
+  position: absolute;
+  top: 344px;
+  width: 297px;
+}
+.cattycodemobile .rectangle-5-C61RwL {
+  background-color: rgba(175,136,227,1.0);
+  border-radius: 3px;
+  height: 239px;
+  left: 39px;
+  position: absolute;
+  top: 388px;
+  width: 297px;
+}
+.cattycodemobile .rectangle-6-7xppi0 {
+  background-color: var(--white);
+  border-radius: 9px;
+  height: 100%;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 100%;
+}
+.cattycodemobile .rectangle-6-7xppi0:hover {
+
+filter: grayscale(100%);
+}
+.cattycodemobile .rectangle-6-GE9ErR {
+  background-color: transparent;
+  height: calc(100.00% - 8px);
+  left: 6px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 4px;
+  transition: all 0.2s ease;
+  width: 28px;
+}
+.cattycodemobile .rectangle-6-GE9ErR:hover {
+
+transform: scale(0.9); 
+}
+.cattycodemobile .rectangle-6-GYBMN0 {
+  background-color: var(--white);
+  border-radius: 9px;
+  height: 100%;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 100%;
+}
+.cattycodemobile .rectangle-6-GYBMN0:hover {
+
+filter: grayscale(100%);
+}
+.cattycodemobile .rectangle-6-sDVF0B {
+  background-color: var(--white);
+  border-radius: 9px;
+  height: 100%;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 100%;
+}
+.cattycodemobile .rectangle-6-sDVF0B:hover {
+
+filter: grayscale(100%);
+}
+.cattycodemobile .rectangle-7-oIFIII {
+  background-color: transparent;
+  height: calc(100.00% - 15px);
+  left: 8px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 8px;
+  transition: all 0.2s ease;
+  width: calc(100.00% - 15px);
+}
+.cattycodemobile .rectangle-7-oIFIII:hover {
+
+transform: scale(0.9); 
+}
+.cattycodemobile .rectangle-8-C61RwL {
+  background-color: var(--white);
+  border-radius: 4px;
+  height: 51px;
+  left: 39px;
+  position: absolute;
+  top: 674px;
+  width: 297px;
+}
+.cattycodemobile .rectangle-9-C61RwL {
+  background-color: rgba(175,136,227,1.0);
+  border-radius: 3px;
+  height: 239px;
+  left: 39px;
+  position: absolute;
+  top: 718px;
+  width: 297px;
+}
+.cattycodemobile .theliec-2eLxbt {
+  -webkit-text-stroke: 1px var(--black);
+  background-color: transparent;
+  color: var(--electric-violet);
+  font-family: 'Poppins', Helvetica;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: 4px;
+  white-space: nowrap;
+  width: 76px;
+}
+.cattycodemobile .transparency-2-vUOK69 {
+  background-color: transparent;
+  height: calc(100.00% - 10px);
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: calc(100.00% - 10px);
+}
+.cattycodemobile .transparency-3-wz60dm {
+  background-color: transparent;
+  height: calc(100.00% - 10px);
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: calc(100.00% - 10px);
+}
+.cattycodemobile .transparency-4-B2GfxI {
+  background-color: transparent;
+  border-radius: 14px;
+  height: calc(100.00% - 10px);
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: calc(100.00% - 10px);
+}
+.cattycodemobile .yetkinlikler-C61RwL {
+  -webkit-text-stroke: 1px var(--unmellow-yellow);
+  background-color: transparent;
+  color: var(--electric-violet);
+  font-family: 'Poppins', Helvetica;
+  font-size: 29px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 112px;
+  letter-spacing: 0.00px;
+  line-height: 29px;
+  position: absolute;
+  text-align: left;
+  top: 350px;
+  white-space: nowrap;
+  width: auto;
+}

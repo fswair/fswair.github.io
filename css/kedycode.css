@@ -1,0 +1,728 @@
+/* screen - kedycode */
+
+.kedycode {
+  align-items: flex-end;
+  background-color: rgba(128,0,255,0.91);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  justify-content: flex-start;
+  overflow: hidden;
+  overflow-x: hidden;
+  padding: 62px 58px;
+  position: relative;
+  width: 1920px;
+}
+.kedycode .cool-Kn0Wjy {
+  background-color: transparent;
+  border-radius: 332px;
+  height: calc(100.00% - 29px);
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: calc(100.00% - 24px);
+}
+.kedycode .dart-logo-4eduM0 {
+  background-color: transparent;
+  height: 44px;
+  left: 104px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 643px;
+  transition: all 0.2s ease;
+  width: 44px;
+}
+.kedycode .dart-logo-4eduM0:hover {
+
+transform: scale(0.9); 
+}
+.kedycode .ellipse-10-xfBdmy {
+  background-color: var(--electric-violet);
+  border-radius: 30px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 60px;
+}
+.kedycode .ellipse-11-VcRGOC {
+  background-color: var(--electric-violet);
+  border-radius: 30px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 60px;
+}
+.kedycode .ellipse-12-m0Lx5x {
+  background-color: var(--electric-violet);
+  border-radius: 30px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 60px;
+}
+.kedycode .ellipse-5-4eduM0 {
+  background-color: rgba(210,142,255,1.0);
+  border-radius: 6px;
+  height: 12px;
+  left: 753px;
+  position: absolute;
+  top: 315px;
+  width: 12px;
+}
+.kedycode .ellipse-6-4eduM0 {
+  background-color: rgba(210,142,255,1.0);
+  border-radius: 6px;
+  height: 12px;
+  left: 1037px;
+  position: absolute;
+  top: 315px;
+  width: 12px;
+}
+.kedycode .ellipse-7-4eduM0 {
+  background-color: var(--electric-violet);
+  border-radius: 30px;
+  height: 60px;
+  left: 98px;
+  position: absolute;
+  top: 481px;
+  width: 60px;
+}
+.kedycode .ellipse-8-4eduM0 {
+  background-color: var(--electric-violet);
+  border-radius: 30px;
+  height: 60px;
+  left: 98px;
+  position: absolute;
+  top: 558px;
+  width: 60px;
+}
+.kedycode .ellipse-9-4eduM0 {
+  background-color: var(--electric-violet);
+  border-radius: 30px;
+  height: 60px;
+  left: 96px;
+  position: absolute;
+  top: 635px;
+  width: 60px;
+}
+.kedycode .fluswair-5cSxqx {
+  -webkit-text-stroke: 1px var(--black);
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: 141px;
+}
+.kedycode .group-1-4eduM0 {
+  background-color: var(--white);
+  border: 4px solid rgba(90,0,248,0.922);
+  border-radius: 96.5px/99.5px;
+  height: 199px;
+  left: 805px;
+  pointer-events: auto;
+  position: absolute;
+  top: 79px;
+  transition: all 0.2s ease;
+  width: 193px;
+}
+.kedycode .group-1-4eduM0:hover {
+
+filter: grayscale(100%);
+}
+.kedycode .group-10-4eduM0 {
+  background-color: var(--white);
+  border-radius: 37px;
+  cursor: pointer;
+  height: 56px;
+  left: 670px;
+  pointer-events: auto;
+  position: absolute;
+  top: 503px;
+  transition: all 0.2s ease;
+  width: 462px;
+}
+.kedycode .group-10-4eduM0:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.kedycode .group-11-4eduM0 {
+  background-color: var(--white);
+  border-radius: 37px;
+  height: 56px;
+  left: 670px;
+  position: absolute;
+  top: 595px;
+  width: 462px;
+}
+.kedycode .group-12-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 52px;
+  left: 687px;
+  pointer-events: auto;
+  position: absolute;
+  top: 601px;
+  transition: all 0.2s ease;
+  width: 202px;
+}
+.kedycode .group-12-4eduM0:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.kedycode .group-13-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 918px;
+  pointer-events: auto;
+  position: absolute;
+  top: 602px;
+  transition: all 0.2s ease;
+  width: 182px;
+}
+.kedycode .group-13-4eduM0:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.kedycode .group-2-4eduM0 {
+  background-color: rgba(255,0,0,1.0);
+  border-radius: 22.5px;
+  cursor: pointer;
+  height: 45px;
+  left: 24px;
+  pointer-events: auto;
+  position: absolute;
+  top: 34px;
+  transition: all 0.2s ease;
+  width: 45px;
+}
+.kedycode .group-2-4eduM0:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.kedycode .group-3-BMXhNO {
+  background-color: transparent;
+  background-image: url(../img/github@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: calc(100.00% - 10px);
+  left: 5px;
+  position: relative;
+  top: 6px;
+  width: calc(100.00% - 10px);
+}
+.kedycode .group-4-4eduM0 {
+  background-color: rgba(0,255,111,1.0);
+  border-radius: 22.5px;
+  cursor: pointer;
+  height: 45px;
+  left: 143px;
+  pointer-events: auto;
+  position: absolute;
+  top: 33px;
+  transition: all 0.2s ease;
+  width: 45px;
+}
+.kedycode .group-4-4eduM0:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.kedycode .group-5-4eduM0 {
+  background-color: rgba(230,255,0,1.0);
+  border-radius: 22.5px;
+  cursor: pointer;
+  height: 45px;
+  left: 81px;
+  pointer-events: auto;
+  position: absolute;
+  top: 34px;
+  transition: all 0.2s ease;
+  width: 45px;
+}
+.kedycode .group-5-4eduM0:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.kedycode .group-6-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 60px;
+  left: 1339px;
+  pointer-events: auto;
+  position: absolute;
+  top: 478px;
+  transition: all 0.2s ease;
+  width: 354px;
+}
+.kedycode .group-6-4eduM0:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.kedycode .group-7-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 60px;
+  left: 1339px;
+  pointer-events: auto;
+  position: absolute;
+  top: 559px;
+  transition: all 0.2s ease;
+  width: 354px;
+}
+.kedycode .group-7-4eduM0:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.kedycode .group-8-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 60px;
+  left: 1339px;
+  pointer-events: auto;
+  position: absolute;
+  top: 641px;
+  transition: all 0.2s ease;
+  width: 353px;
+}
+.kedycode .group-8-4eduM0:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.kedycode .group-9-4eduM0 {
+  background-color: var(--white);
+  border-radius: 37px;
+  height: 56px;
+  left: 817px;
+  pointer-events: auto;
+  position: absolute;
+  top: 411px;
+  transition: all 0.2s ease;
+  width: 169px;
+}
+.kedycode .group-9-4eduM0:hover {
+
+transform: translate(0, -5px);
+}
+.kedycode .herkes-iin-udemy-VcRGOC {
+  -webkit-text-stroke: 1px var(--unmellow-yellow);
+  background-color: transparent;
+  bottom: calc(21.43% - 8px);
+  color: var(--electric-violet);
+  font-family: 'Poppins', Helvetica;
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 400;
+  height: 39px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  position: absolute;
+  right: 14px;
+  text-align: left;
+  white-space: nowrap;
+  width: 247px;
+}
+.kedycode .iletiim-xeOfmx {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: calc(100.00% - 40px);
+}
+.kedycode .infomertsirakayacom-b4Oxxg {
+  background-color: transparent;
+  height: calc(100.00% - 3px);
+  left: 16px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: calc(100.00% - 28px);
+}
+.kedycode .kodlarn-tercman-m0Lx5x {
+  -webkit-text-stroke: 1px var(--unmellow-yellow);
+  background-color: transparent;
+  bottom: calc(21.43% - 8px);
+  color: var(--electric-violet);
+  font-family: 'Poppins', Helvetica;
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 400;
+  height: 39px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  position: absolute;
+  right: 12px;
+  text-align: left;
+  white-space: nowrap;
+  width: 258px;
+}
+.kedycode .konser-biletleri-xfBdmy {
+  -webkit-text-stroke: 1px var(--unmellow-yellow);
+  background-color: transparent;
+  color: var(--electric-violet);
+  font-family: 'Poppins', Helvetica;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% - 11px);
+  letter-spacing: 0.00px;
+  line-height: 33px;
+  position: absolute;
+  right: 20px;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 240px;
+}
+.kedycode .linked-in-DQSHtT {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 5px);
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: calc(100.00% - 5px);
+}
+.kedycode .mert-srakaya-4eduM0 {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  color: var(--white);
+  font-family: 'Poppins', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 778px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 303px;
+  white-space: nowrap;
+  width: auto;
+}
+.kedycode .overlap-group-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 750px;
+  position: relative;
+  width: 1803px;
+}
+.kedycode .projeler-4eduM0 {
+  -webkit-text-stroke: 1px var(--unmellow-yellow);
+  background-color: transparent;
+  height: auto;
+  left: 1454px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 413px;
+  white-space: nowrap;
+  width: auto;
+}
+.kedycode .rectangle-1-4eduM0 {
+  background-color: var(--black);
+  border: 3.2px solid var(--white);
+  border-radius: 11px;
+  height: 750px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1803px;
+}
+.kedycode .rectangle-10-4eduM0 {
+  background-color: var(--white);
+  border-radius: 9px;
+  height: 24px;
+  left: 166px;
+  pointer-events: auto;
+  position: absolute;
+  top: 577px;
+  transition: all 0.2s ease;
+  width: 282px;
+}
+.kedycode .rectangle-10-4eduM0:hover {
+
+filter: grayscale(100%);
+}
+.kedycode .rectangle-11-4eduM0 {
+  background-color: var(--blueberry);
+  border-radius: 9px;
+  height: 24px;
+  left: 166px;
+  position: absolute;
+  top: 499px;
+  width: 209px;
+}
+.kedycode .rectangle-12-4eduM0 {
+  background-color: var(--blueberry);
+  border-radius: 9px;
+  height: 24px;
+  left: 166px;
+  position: absolute;
+  top: 577px;
+  width: 154px;
+}
+.kedycode .rectangle-13-4eduM0 {
+  background-color: var(--blueberry);
+  border-radius: 9px;
+  height: 24px;
+  left: 166px;
+  position: absolute;
+  top: 655px;
+  width: 184px;
+}
+.kedycode .rectangle-14-4eduM0 {
+  background-color: rgba(175,136,227,1.0);
+  border-radius: 13px;
+  height: 307px;
+  left: 1316px;
+  position: absolute;
+  top: 405px;
+  width: 412px;
+}
+.kedycode .rectangle-15-4eduM0 {
+  background-color: var(--white);
+  border-radius: 9px;
+  height: 51px;
+  left: 1316px;
+  position: absolute;
+  top: 405px;
+  width: 412px;
+}
+.kedycode .rectangle-16-xfBdmy {
+  background-color: var(--white);
+  border-radius: 9px;
+  height: calc(100.00% - 15px);
+  position: absolute;
+  right: 0px;
+  top: 7px;
+  width: 282px;
+}
+.kedycode .rectangle-17-m0Lx5x {
+  background-color: var(--white);
+  border-radius: 9px;
+  height: calc(100.00% - 15px);
+  position: absolute;
+  right: 0px;
+  top: 7px;
+  width: 282px;
+}
+.kedycode .rectangle-18-VcRGOC {
+  background-color: var(--white);
+  border-radius: 9px;
+  height: 45px;
+  position: absolute;
+  right: 0px;
+  top: 6px;
+  width: 282px;
+}
+.kedycode .rectangle-2-UHdB3x {
+  background-color: transparent;
+  bottom: calc(48.00% - 10px);
+  height: 20px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 15px);
+}
+.kedycode .rectangle-20-5cSxqx {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 45px;
+}
+.kedycode .rectangle-20-hxQ54f {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 45px;
+}
+.kedycode .rectangle-4-4eduM0 {
+  background-color: rgba(175,136,227,1.0);
+  border-radius: 13px;
+  height: 307px;
+  left: 75px;
+  position: absolute;
+  top: 413px;
+  width: 412px;
+}
+.kedycode .rectangle-5-4eduM0 {
+  background-color: var(--white);
+  border-radius: 9px;
+  height: 51px;
+  left: 75px;
+  position: absolute;
+  top: 413px;
+  width: 412px;
+}
+.kedycode .rectangle-6-4eduM0 {
+  background-color: transparent;
+  height: 58px;
+  left: 99px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 483px;
+  transition: all 0.2s ease;
+  width: 58px;
+}
+.kedycode .rectangle-6-4eduM0:hover {
+
+transform: scale(0.9); 
+}
+.kedycode .rectangle-7-4eduM0 {
+  background-color: transparent;
+  height: 45px;
+  left: 106px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 566px;
+  transition: all 0.2s ease;
+  width: 45px;
+}
+.kedycode .rectangle-7-4eduM0:hover {
+
+transform: scale(0.9); 
+}
+.kedycode .rectangle-8-4eduM0 {
+  background-color: var(--white);
+  border-radius: 9px;
+  height: 24px;
+  left: 166px;
+  pointer-events: auto;
+  position: absolute;
+  top: 499px;
+  transition: all 0.2s ease;
+  width: 282px;
+}
+.kedycode .rectangle-8-4eduM0:hover {
+
+filter: grayscale(100%);
+}
+.kedycode .rectangle-9-4eduM0 {
+  background-color: var(--white);
+  border-radius: 9px;
+  height: 24px;
+  left: 166px;
+  pointer-events: auto;
+  position: absolute;
+  top: 655px;
+  transition: all 0.2s ease;
+  width: 282px;
+}
+.kedycode .rectangle-9-4eduM0:hover {
+
+filter: grayscale(100%);
+}
+.kedycode .theliec-hxQ54f {
+  -webkit-text-stroke: 1px var(--black);
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: 8px;
+  white-space: nowrap;
+  width: 122px;
+}
+.kedycode .tm-haklar-sakld-21-by-anima-app-C61RwL {
+  -webkit-text-stroke: 1px var(--white);
+  align-self: center;
+  background-color: transparent;
+  color: var(--white);
+  flex-shrink: 1;
+  font-family: 'Poppins', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  margin-left: 3.0px;
+  margin-top: 106px;
+  min-height: 53px;
+  min-width: 726px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.kedycode .transparency-2-m0Lx5x {
+  background-color: transparent;
+  height: calc(100.00% - 15px);
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 45px;
+}
+.kedycode .transparency-3-xfBdmy {
+  background-color: transparent;
+  height: calc(100.00% - 15px);
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 45px;
+}
+.kedycode .transparency-4-VcRGOC {
+  background-color: transparent;
+  height: calc(100.00% - 12px);
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 48px;
+}
+.kedycode .yetkinlikler-4eduM0 {
+  -webkit-text-stroke: 1px var(--unmellow-yellow);
+  background-color: transparent;
+  height: auto;
+  left: 188px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 421px;
+  white-space: nowrap;
+  width: auto;
+}
